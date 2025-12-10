@@ -167,6 +167,10 @@ nav>ul>li {
     align-self: flex-end;
 }
 
+.section-three > h1 {
+    font-style: italic;
+}
+
 .section-four {
     display: flex;
     background-color: white;
